@@ -116,7 +116,8 @@ gulp.task('deploy', ['publish'], function () {
   // Deploys your optimized site, you can change the settings in the html task if you want to
   return gulp.src('./site/**/*')
     .pipe($.ghPages({
-      branch: 'master'
+      branch: 'master',
+      remoteUrl: 'git@github.com:MrMaksimize/testDev.git'
     }));
 });
 
