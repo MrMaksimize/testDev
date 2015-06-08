@@ -1,3 +1,0 @@
-# Maksim
-
-[Describe the project.]
