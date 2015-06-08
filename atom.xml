@@ -4,7 +4,7 @@
  <title>Data SD</title>
  <link href="/atom.xml" rel="self"/>
  <link href="/"/>
- <updated>2015-06-07T17:23:44-07:00</updated>
+ <updated>2015-06-07T17:30:07-07:00</updated>
  <id></id>
  <author>
    <name>Maksim</name>
@@ -14,7 +14,7 @@
  
  <entry>
    <title>Welcome to Jekyll!</title>
-   <link href="/welcome-to-jekyll/"/>
+   <link href="/welcome-to-jekyll"/>
    <updated>2014-03-03T00:00:00-08:00</updated>
    <id>/welcome-to-jekyll</id>
    <content type="html">&lt;p&gt;You&amp;rsquo;ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory - edit this post and re-build
@@ -58,7 +58,7 @@ Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/mo
  
  <entry>
    <title>Introducing Poole</title>
-   <link href="/introducing-poole/"/>
+   <link href="/introducing-poole"/>
    <updated>2014-03-02T00:00:00-08:00</updated>
    <id>/introducing-poole</id>
    <content type="html">&lt;p&gt;&lt;em&gt;The Strange Case of Dr. Jeykll and Mr. Hyde&lt;/em&gt; tells the story of a lawyer
